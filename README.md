@@ -1,4 +1,3 @@
-# AlexandraAyorinde_4_06122021
 OC - Projet 4 - Optimisez un site web existant
 
 La Chouette Agence
