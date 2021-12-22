@@ -779,9 +779,13 @@ h4 {
 }
 
 .btm-white {
-    color: #703c25!important;
+    color: #703c25;
     font-weight: bold;
     background: #FFFFFF;
+    border-radius: 25px;
+    width: 65%;
+    height: auto;
+    margin-left: 15%;
 }
 
 .btn-atomic-tangerine {
