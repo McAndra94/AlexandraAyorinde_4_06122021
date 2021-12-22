@@ -302,7 +302,7 @@ a:hover {
 }
 
 .navbar-brand img {
-    max-height: 40px;
+    max-height: 200px;
     margin: 0 5px 0 0;
     display: inline;
 }
@@ -972,9 +972,8 @@ h4 {
         box-shadow: none;
     }
     .navbar-brand img {
-        height: 40px;
         max-height: 40px;
-        width: 200px;
+        max-width: 300px;
     }
     .nav-invert .navbar-header {
         float: none;
