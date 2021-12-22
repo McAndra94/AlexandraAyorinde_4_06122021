@@ -2,7 +2,7 @@ OC - Projet 4 - Optimisez un site web existant
 
 La Chouette Agence
 
-- Compétences évaluées
+Compétences évaluées :
 - Écrire un code HTML et CSS maintenable
 - Assurer l'accessibilité d'un site web
 - Optimiser le référencement d'un site web
