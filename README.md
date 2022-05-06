@@ -9,6 +9,6 @@ Compétences évaluées :
 - Réaliser une recherche des bonnes pratiques en développement web
 - Optimiser la taille et la vitesse d’un site web
 
-Site modifié : https://mcandra94.github.io/AlexandraAyorinde_4_06122021/
+Site modifié : https://mcandra94.github.io/La_Chouette_Agence_4_06122021/
 
-Site initial : https://mcandra94.github.io/AlexandraAyorinde_4_06122021-Original/
+Site initial : https://mcandra94.github.io/La_Chouette_Agence_4_06122021-Original/
